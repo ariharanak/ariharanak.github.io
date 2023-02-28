@@ -12,7 +12,9 @@
     color:red;
 }
 h1{
-    margin-left: 550px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
     margin-top:200px;
 }
 .stopwatch{
